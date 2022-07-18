@@ -8,5 +8,5 @@ variable "resource_group_name" {
 }
 
 variable "vpc_name" {
-  default = "my-test-vpc"
+  default = "sanjana-test-vpc"
 }
